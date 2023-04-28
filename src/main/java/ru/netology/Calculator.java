@@ -15,6 +15,6 @@ public class Calculator {
 
     Predicate<Integer> isPositive = x -> x > 0;
 
-    Consumer<Integer> println = System.out::println;
+    Consumer<Integer> println = System.out::print;
 
 }
