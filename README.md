@@ -2,8 +2,8 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [Калькулятор](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task1/README.md);
-2. [Работяга](https://github.com/netology-code/jd-homeworks/blob/master/lambda/task2/README.md).
+1. [Калькулятор](https://github.com/vOrzee/ru.netology.javacore.hw1.1_LambdaExpressionsAndFunctionalInterfaces/tree/Calculator);
+2. [Работяга](https://github.com/vOrzee/ru.netology.javacore.hw1.1_LambdaExpressionsAndFunctionalInterfaces/tree/HardWorker).
 
 
 ## Инструкция по выполнению домашнего задания
